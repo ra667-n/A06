@@ -36,3 +36,12 @@ main h3 {
 }
 
 /* the styles for the footer */
+
+a:hover,
+a:focus {
+  font-style: italic;
+}
+
+footer p {
+  text-align: center;
+}
